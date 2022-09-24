@@ -1,1 +1,1 @@
-# GroceryListAppSmartinterz Contains app
+# Branch GroceryListAppSmartinterz contains app file
