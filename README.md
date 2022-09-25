@@ -1,1 +1,1 @@
-# Branch GroceryListAppSmartinterz contains app file
+# Branch GroceryListAppSmartinterz contains andriod studio file and .apk of app "Grocery List App".
